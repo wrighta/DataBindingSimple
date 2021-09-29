@@ -19,6 +19,7 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <!-- Add to this layout so it is the same as my example FindViewByIdSimple -->
 
 </LinearLayout>
 </layout>

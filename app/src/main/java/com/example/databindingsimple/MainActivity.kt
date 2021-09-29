@@ -22,5 +22,9 @@ class MainActivity : AppCompatActivity() {
         binding.textBox.setOnClickListener{
             Toast.makeText(this, binding.textBox.text, Toast.LENGTH_SHORT).show()
         }
+
+        // Once you've added items to your layout, do the above for each item in your layout.
+
+
     }
 }
